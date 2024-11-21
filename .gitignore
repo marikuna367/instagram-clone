@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables
+.env
+*.env
+
+# Django stuff:
+*.log
+db.sqlite3
+
+# If using Django Debug Toolbar
+debug_toolbar/
+
+
+
+# Static files
+staticfiles/
+
+# Node.js dependencies (if using frontend tools like npm or yarn)
+node_modules/
+
+# Package manager files
+*.lock
+
+# VS Code workspace settings
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Bytecode cache
+__pycache__/
+
+# IDE-specific files
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PyCharm specific files
+*.iml
+*.ipr
+*.iws
